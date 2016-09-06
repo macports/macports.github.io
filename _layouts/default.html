@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+    <head>
+        <title>{{ page.title | smartify | escape_once }}</title>
+        <meta name="author" content="Jim Mock (mij@macports.org)" />
+        <meta name="author" content="Juan Manuel Palacios (jmpp@macports.org)" />
+        <meta name="author" content="Chris Pickel (sfiera@macports.org)" />
+        <meta name="copyright" content="2003, OpenDarwin" />
+        <meta name="copyright" content="2007, The MacPorts Project" />
+        <meta name="description" content="The MacPorts Project is an open-source community initiative to design an easy-to-use
+        system for compiling, installing, and upgrading either command-line, X11 or Aqua based open-source software on the Mac
+        OS X operating system." />
+        <meta name="verify-v1" content="Gx4BI7CyPR+VN1q1Ckc6dcbuLF5NQGUaKEcm1Y/TFlY=" />
+        <meta name="robots" content="all" />
+        <link rel="stylesheet" type="text/css" href="https://www.macports.org/macports.css" />
+        <script type="text/javascript" src="https://www.macports.org/mootools.v1.11.js"></script>
+        <script type="text/javascript" src="https://www.macports.org/language.js"></script>
+    </head>
+
+
+    <body>
+
+        <h1><a href="https://www.macports.org" title="The MacPorts Project"><span class="accessibility">The MacPorts Project
+        </span></a></h1>
+
+        <p class="accessibility"><a href="#content">Skip to Content</a></p>
+
+
+        <div id="header">
+
+            <a id="download" href="https://www.macports.org/install.php"><span class="accessibility">Download MacPorts</span></a>
+<!--
+            <span class="accessibility">View site in</span>
+            <span><a href="#" id="language"><img src="https://www.macports.org/img/en-enabled.png" alt="English" /></a></span>
+            <span id="languages">
+                <a href="#"><img src="https://www.macports.org/img/fr-disabled.png" alt="Fran&#xE7;ais" /></a>
+                <a href="#"><img src="https://www.macports.org/img/es-disabled.png" alt="Espa&#xF1;ol" /></a>
+                <a href="#"><img src="https://www.macports.org/img/ru-disabled.png" alt="&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;&#160;(Russkij)"/></a>
+                <a href="#"><img src="https://www.macports.org/img/it-disabled.png" alt="Italiano" /></a>
+            </span>
+-->
+        </div>
+
+
+        <div id="navigation">
+
+            <dl>
+                <dt>Getting Started</dt>
+                <dd>
+                    <ul>
+<li><a href="https://www.macports.org/index.php" title="Home">Home</a></li>
+<li><a href="https://www.macports.org/install.php" title="Installing MacPorts">Installing MacPorts</a></li>
+<li><a href="https://www.macports.org/ports.php" title="Available Ports">Available Ports</a></li>
+<li><a href="https://guide.macports.org/" title="Documentation">Documentation</a></li>
+<li><a href="https://trac.macports.org/" title="Support &amp; Development">Support &amp; Development</a></li>
+<li><a href="https://www.macports.org/contact.php" title="Contact Us">Contact Us</a></li>
+<li class="selected"><a href="https://www.macports.org/news/" title="News">News</a></li>
+                    </ul>
+                </dd>
+                <dt>Shortcuts</dt>
+                <dd>
+                    <ul>
+<li><a href="https://distfiles.macports.org/MacPorts/" title="Available Downloads">Available Downloads</a></li>
+<li><a href="https://trac.macports.org/wiki/FAQ" title="MacPorts FAQ">MacPorts FAQ</a></li>
+<li><a href="https://trac.macports.org/newticket" title="Report a Bug">Report a Bug</a></li>
+<li><a href="https://guide.macports.org/#project.tickets" title="Bug reporting Guidelines">Bug reporting Guidelines</a></li>
+<li><a href="https://svn.macports.org/repository/macports/" title="Subversion Repository">Subversion Repository</a></li>
+<li><a href="https://trac.macports.org/wiki/MacPortsDevelopers" title="MacPorts Team">MacPorts Team</a></li>
+<li><a href="https://guide.macports.org/#project.membership" title="Becoming a Member">Becoming a Member</a></li>
+                    </ul>
+                </dd>
+            </dl>
+        </div>
+
+
+
+
+<div id="content">
+    <h2>{{ page.title | smartify | escape_once }}{% if page.date %} <small>{{ page.date | date: "%B %-d, %Y" }}</small>{% endif %}</h2>
+    {{ content }}
+</div>
+
+
+
+
+        <div id="footer">
+        
+            <p><a href="http://validator.w3.org/check?uri=referer"><img src="https://www.macports.org/img/valid-xhtml11-blue.png" alt="Valid XHTML 1.1" /></a>
+            <a href="http://jigsaw.w3.org/css-validator/check/referer"><img src="https://www.macports.org/img/vcss.png" alt="Valid CSS!" /></a></p>
+            
+            <p>Copyright &#xA9; 2002&#x2013;{{ "now" | date: "%Y" }}, <a href="https://www.macports.org">The MacPorts Project</a>.
+            Content delivery accelerated by <a href="https://www.maxcdn.com">MaxCDN</a>.
+            All rights reserved.</p>
+
+        </div>
+
+    </body>
+
+</html>
