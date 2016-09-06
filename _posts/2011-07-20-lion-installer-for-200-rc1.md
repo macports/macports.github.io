@@ -1,7 +1,6 @@
 ---
 title: Lion installer for 2.0.0-rc1
 slug: lion-installer-for-200-rc1
-permalink: /post/lion-installer-for-200-rc1
 date: 2011-07-20 12:56:27.76611-07
 ---
 

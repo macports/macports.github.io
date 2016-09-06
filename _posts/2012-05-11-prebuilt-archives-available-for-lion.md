@@ -1,7 +1,6 @@
 ---
 title: Prebuilt archives available for Lion
 slug: prebuilt-archives-available-for-lion
-permalink: /post/prebuilt-archives-available-for-lion
 date: 2012-05-11 09:41:54.130853-07
 ---
 

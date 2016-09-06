@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.7.1 now available
 slug: macports-171-now-available
-permalink: /post/macports-171-now-available
 date: 2009-03-28 18:34:46.269197-07
 ---
 

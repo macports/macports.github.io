@@ -1,7 +1,6 @@
 ---
 title: New build system
 slug: new-build-system
-permalink: /post/new-build-system
 date: 2016-08-09 18:01:41.735562-07
 ---
 

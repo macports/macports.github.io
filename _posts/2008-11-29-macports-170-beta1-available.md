@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.7.0 beta1 available
 slug: macports-170-beta1-available
-permalink: /post/macports-170-beta1-available
 date: 2008-11-29 17:13:01.971573-08
 ---
 

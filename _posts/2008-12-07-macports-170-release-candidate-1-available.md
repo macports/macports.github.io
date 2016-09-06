@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.7.0 release candidate 1 available
 slug: macports-170-release-candidate-1-available
-permalink: /post/macports-170-release-candidate-1-available
 date: 2008-12-07 12:47:54.865595-08
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: New rsync server
 slug: new-rsync-server
-permalink: /post/new-rsync-server
 date: 2016-08-09 18:57:53.274493-07
 ---
 

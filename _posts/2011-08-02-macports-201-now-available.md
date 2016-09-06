@@ -1,7 +1,6 @@
 ---
 title: MacPorts 2.0.1 now available
 slug: macports-201-now-available
-permalink: /post/macports-201-now-available
 date: 2011-08-02 10:02:20.061924-07
 ---
 

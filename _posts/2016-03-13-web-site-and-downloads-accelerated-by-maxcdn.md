@@ -1,7 +1,6 @@
 ---
 title: Web site and downloads accelerated by MaxCDN
 slug: web-site-and-downloads-accelerated-by-maxcdn
-permalink: /post/web-site-and-downloads-accelerated-by-maxcdn
 date: 2016-03-13 23:41:04.923703-07
 ---
 

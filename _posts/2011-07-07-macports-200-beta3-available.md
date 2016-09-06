@@ -1,7 +1,6 @@
 ---
 title: MacPorts 2.0.0 beta3 available
 slug: macports-200-beta3-available
-permalink: /post/macports-200-beta3-available
 date: 2011-07-07 09:45:48.581766-07
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.9.0 beta2 available
 slug: macports-190-beta2-available
-permalink: /post/macports-190-beta2-available
 date: 2010-05-19 09:43:58.637419-07
 ---
 

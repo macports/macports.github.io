@@ -1,7 +1,6 @@
 ---
 title: MacPorts 2.2.0 release candidate 1 available
 slug: macports-220-release-candidate-1-available
-permalink: /post/macports-220-release-candidate-1-available
 date: 2013-07-08 06:28:24.241816-07
 ---
 

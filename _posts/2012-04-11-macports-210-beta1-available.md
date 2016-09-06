@@ -1,7 +1,6 @@
 ---
 title: MacPorts 2.1.0 beta1 available
 slug: macports-210-beta1-available
-permalink: /post/macports-210-beta1-available
 date: 2012-04-11 18:23:28.399081-07
 ---
 

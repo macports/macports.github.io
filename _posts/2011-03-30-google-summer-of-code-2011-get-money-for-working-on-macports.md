@@ -1,7 +1,6 @@
 ---
 title: "Google Summer of Code 2011: Get money for working on MacPorts"
 slug: google-summer-of-code-2011-get-money-for-working-on-macports
-permalink: /post/google-summer-of-code-2011-get-money-for-working-on-macports
 date: 2011-03-30 02:33:12.238213-07
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Prebuilt archives available for Mountain Lion
 slug: prebuilt-archives-available-for-mountain-lion
-permalink: /post/prebuilt-archives-available-for-mountain-lion
 date: 2012-12-05 18:41:17.774652-08
 ---
 

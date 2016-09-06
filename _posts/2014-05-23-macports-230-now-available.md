@@ -1,7 +1,6 @@
 ---
 title: MacPorts 2.3.0 now available
 slug: macports-230-now-available
-permalink: /post/macports-230-now-available
 date: 2014-05-23 19:48:12.947767-07
 ---
 

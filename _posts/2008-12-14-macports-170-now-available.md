@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.7.0 now available
 slug: macports-170-now-available
-permalink: /post/macports-170-now-available
 date: 2008-12-14 00:44:04.284859-08
 ---
 

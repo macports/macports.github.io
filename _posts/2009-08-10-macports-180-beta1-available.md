@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.8.0 beta1 available
 slug: macports-180-beta1-available
-permalink: /post/macports-180-beta1-available
 date: 2009-08-10 00:30:03.859281-07
 ---
 

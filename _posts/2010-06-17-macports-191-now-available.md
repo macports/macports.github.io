@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.9.1 now available
 slug: macports-191-now-available
-permalink: /post/macports-191-now-available
 date: 2010-06-17 18:44:20.792254-07
 ---
 

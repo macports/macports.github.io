@@ -1,7 +1,6 @@
 ---
 title: New Management
 slug: new-management
-permalink: /post/new-management
 date: 2008-11-03 13:36:04.295957-08
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: MacPorts 2.3.0 beta2 available
 slug: macports-230-beta2-available
-permalink: /post/macports-230-beta2-available
 date: 2014-04-22 12:10:59.590092-07
 ---
 

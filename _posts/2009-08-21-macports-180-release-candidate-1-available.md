@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.8.0 release candidate 1 available
 slug: macports-180-release-candidate-1-available
-permalink: /post/macports-180-release-candidate-1-available
 date: 2009-08-21 11:13:06.800279-07
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: MacPorts 1.8.0 now available
 slug: macports-180-now-available
-permalink: /post/macports-180-now-available
 date: 2009-08-27 23:34:50.500108-07
 ---
 

@@ -1,7 +1,6 @@
 ---
 title: Google Summer of Code 2009 - Money for students working on MacPorts!
 slug: google-summer-of-code-2009-money-for-students-working-on-macports
-permalink: /post/google-summer-of-code-2009-money-for-students-working-on-macports
 date: 2009-03-31 05:04:18.257915-07
 ---
 

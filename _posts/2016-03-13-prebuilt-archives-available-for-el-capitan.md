@@ -1,7 +1,6 @@
 ---
 title: Prebuilt archives available for El Capitan
 slug: prebuilt-archives-available-for-el-capitan
-permalink: /post/prebuilt-archives-available-for-el-capitan
 date: 2016-03-13 23:02:42.027794-07
 ---
 
