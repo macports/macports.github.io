@@ -1,0 +1,18 @@
+baseurl: ""
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+excerpt_separator: <!--more-->
+exclude:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+gems:
+  - jekyll-redirect-from
+permalink: pretty
+title: "MacPorts"
+url: "https://www.macports.org"
