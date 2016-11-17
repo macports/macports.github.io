@@ -10,7 +10,7 @@ In the Terminal, `cd` to the root directory of your clone.
 
 ### Install Ruby, bundler, and the GitHub Pages gems
 
-Make sure you have Ruby 2.0.0 or greater:
+Make sure you have Ruby 2.2.2 or greater:
 
     ruby --version
 
