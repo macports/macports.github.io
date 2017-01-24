@@ -19,6 +19,7 @@ for a list of most of the major ones. You may like to focus your
 testing on the new features in that list, as well as your normal usage.
 
 Changes since beta1 are:
+
 *   Fixed variants requested on the command line or in variants.conf not being
     properly passed down to dependencies when +universal is added by arch
     checking. ([#53322](https://trac.macports.org/ticket/53322), jmr in 4972592)
