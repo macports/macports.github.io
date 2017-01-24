@@ -19,10 +19,10 @@ for a list of most of the major ones. You may like to focus your
 testing on the new features in that list, as well as your normal usage.
 
 Changes since beta1 are:
- * Fixed variants requested on the command line or in variants.conf not being
-   properly passed down to dependencies when +universal is added by arch
-   checking. ([#53322](https://trac.macports.org/ticket/53322), jmr in 4972592)
- * Fixed a few more issues with pkg filenames. (jmr in e0c7f1c, 75584d8)
+*   Fixed variants requested on the command line or in variants.conf not being
+    properly passed down to dependencies when +universal is added by arch
+    checking. ([#53322](https://trac.macports.org/ticket/53322), jmr in 4972592)
+*   Fixed a few more issues with pkg filenames. (jmr in e0c7f1c, 75584d8)
 
 [1]: https://github.com/macports/macports-base/releases/tag/v2.4.0-rc1
 [2]: https://trac.macports.org/newticket
