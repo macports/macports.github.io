@@ -20,7 +20,7 @@ Of special note for users of 10.6-10.8: The default C++ stdlib has changed from
 libstdc++ to libc++. This will enable building ports that require C++11
 and beyond much more easily. All C++-based ports using the old stdlib
 will need to be rebuilt, so we recommend that you run 'sudo port
-rev-upgrade' after installing the beta.
+rev-upgrade' after updating to MacPorts 2.6.0.
 
 We are currently in the process of switching the packages server over
 to the new stdlib, so availability of binary packages
