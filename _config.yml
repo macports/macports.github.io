@@ -15,6 +15,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
+  - vendor
 plugins:
   - jekyll-feed
   - jekyll-redirect-from

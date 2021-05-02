@@ -18,6 +18,8 @@ Install the bundle of gems specified by this project's Gemfile:
 
     bundle2.7 install
 
+The gems will be installed in the vendor/bundle subdirectory of the current directory.
+
 If it's been awhile since you installed the bundle, update it:
 
     bundle2.7 update
