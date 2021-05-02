@@ -8,29 +8,25 @@ You should test any changes to the web site locally before pushing.
 
 In the Terminal, `cd` to the root directory of your clone.
 
-### Install Ruby, bundler, and the GitHub Pages gems
+### Install Ruby and the GitHub Pages gems
 
-Make sure you have Ruby 2.2.2 or greater:
+[GitHub Pages currently uses Ruby 2.7.x](https://pages.github.com/versions/) so install ruby27 with MacPorts:
 
-    ruby --version
+    sudo port install ruby27
 
-Install the bundler gem:
+Install the bundle of gems specified by this project's Gemfile:
 
-    gem install bundler
-
-Install the bundle of gems used by GitHub Pages:
-
-    bundle install
+    bundle2.7 install
 
 If it's been awhile since you installed the bundle, update it:
 
-    bundle update
+    bundle2.7 update
 
 ### Test the web site
 
 Start a local web server by running:
 
-    bundle exec jekyll serve --baseurl ''
+    bundle2.7 exec jekyll serve --baseurl ''
 
 Now you can access <http://127.0.0.1:4000/news/> in your web browser to see the web site. When you make changes to your clone, your local site will automatically update. When done testing, press <kbd>Ctrl</kbd> + <kbd>C</kbd> to stop the local web server.
 
