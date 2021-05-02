@@ -19,5 +19,6 @@ gems:
   - jekyll-feed
   - jekyll-redirect-from
 permalink: pretty
+theme: null
 title: "MacPorts"
 url: "https://www.macports.org"
